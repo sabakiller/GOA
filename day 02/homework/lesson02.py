@@ -1,0 +1,1 @@
+print("andria kobakhidze, Gurami, giorgi gamasakhurdia, nikoloz yvavazde")
